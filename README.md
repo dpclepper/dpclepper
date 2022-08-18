@@ -7,6 +7,7 @@
 **How to reach me!**
 
 📫 clepper@wisc.edu
+
 ⛓ https://www.linkedin.com/in/dpclepper/
 
 
