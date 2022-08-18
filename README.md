@@ -4,9 +4,11 @@
 
 📊 I have work experience and completed coursework concentrating in Python, SQL, R, Tableau, Julia, and Arena. At UW-Madison, I have taken courses in theory and methods of mathematical statistics, operations research, probabilistic and deterministic modeling, simulation modeling, decision analysis, and economic analysis.
 
-**📫 How to reach me**
+**How to reach me!**
 
+📫 clepper@wisc.edu
 ⛓ https://www.linkedin.com/in/dpclepper/
+
 
 <!--
 **dpclepper/dpclepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
