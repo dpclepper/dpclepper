@@ -25,7 +25,7 @@ I investigated multiple datasets from The World Bank on renewable energy consump
 ### Machine Learning
 
 #### Predicting Startup Success with Machine Learning - [link](https://github.com/dpclepper/Venture-Success)
-I applied CART, random forest, and logistic regression models to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
+I applied CART, random forest, logistic regression, and other techniques including dimensionality reduction and regularization to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
 
 ### Simulation Modeling and Analysis
 
