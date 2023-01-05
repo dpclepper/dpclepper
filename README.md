@@ -20,5 +20,10 @@
 I investigate the life expectancy dataset from the World Health Organization (WHO) between 1995 and 2015 to see general trends and take a closer look at differences across factors including country development status, GDP, and year. I performed initial data analysis, Welch's two-sample hypothesis tests, confidence intervals, and a multiple linear regression model in R.
 
 #### Renewable Energy vs. Fossil Fuel Consumption Data Analysis - [link](https://github.com/dpclepper/Energy)
-I investigate multiple datasets from The World Bank on renewable energy consumption, fossil fuel energy consumption, and renewable electricity output across numerous countries. I focus on the differences between these factors and how certain features including region and year influence these values and their corresponding differences. I cleaned the data using multiple techniques, conducted an exploratory data analysis and analysis of variance, and created a multiple linear regression model. 
+I investigate multiple datasets from The World Bank on renewable energy consumption, fossil fuel energy consumption, and renewable electricity output across numerous countries. I focus on the differences between these factors and how certain features including region and year influence these values and their corresponding differences. I cleaned the data using multiple techniques, conducted an exploratory data analysis and analysis of variance, and created a multiple linear regression model.
+
+### Machine Learning
+
+#### Predicting Startup Success with Machine Learning - [link](https://github.com/dpclepper/Venture-Success)
+I applied CART, random forest, and logistic regression models to a Kaggle dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
 
