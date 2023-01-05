@@ -27,3 +27,7 @@ I investigate multiple datasets from The World Bank on renewable energy consumpt
 #### Predicting Startup Success with Machine Learning - [link](https://github.com/dpclepper/Venture-Success)
 I applied CART, random forest, and logistic regression models to a Kaggle dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
 
+### Simulation Modeling and Analysis
+
+#### Costco Gas Station Simulation Modeling - [link](https://github.com/dpclepper/Costco-Gas-Station)
+I collected 10+ hours of queueing data at the Madison Costco gas station over multiple weeks to gain information from a system perspective. Using arrival time, pump start time, and departure time for 1,000's of vehicles at the gas station, I created a model in Arena Simulation Software to compare against the models. I developed alternatives to the model structure and performed alternative analysis to select the best model that optimizes time in system and system capacity.
