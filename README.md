@@ -6,7 +6,7 @@
 
 **How to reach me!**
 
-📫 clepper@wisc.edu
+📫 dpc2147@columbia.edu
 
 ⛓ https://www.linkedin.com/in/dpclepper/
 <br>
