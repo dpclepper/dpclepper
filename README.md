@@ -1,10 +1,12 @@
 # Hi, I'm Danny! 👋
 
-🏫 I'm a rising senior at the University of Wisconsin-Madison pursuing a Bachelors of Science in Industrial Engineering with a concentration in Engineering Analytics & Operations Research. Additionally, I am pursuing minors in Data Science and Leadership to complement my engineering education. This past summer, I worked as a Digital & Technology Intern at Kraft Heinz on the Enterprise Architecture team where I developed dashboards, performed statistical analyses, and communicated insights to company leaders.
+🏫 Hey! I'm Danny Clepper, a data science enthusiast with a strong background in product analytics and machine learning. Currently, I'm studying Data Science at Columbia University, having recently graduated with a BS in Industrial Engineering from the University of Wisconsin-Madison (go Badgers!).
 
-📊 I have work experience and completed coursework concentrating in Python, SQL, R, Tableau, Julia, and Arena. At UW-Madison, I have taken courses in theory and methods of mathematical statistics, data science modeling, data structures and algorithms, machine learning, operations research, probabilistic and deterministic modeling, simulation modeling, decision analysis, and economic analysis.
+📊 Throughout my education, I've had a wealth of internship experiences across multiple domains, most recently working on feature engineering for Visa's Predictive Modeling organization. My expertise lies in SQL, Python, Tableau, and machine learning modeling, enabling me to extract and deliver valuable insights from complex data.
 
-**How to reach me!**
+Check out my projects below!
+
+**How to reach me:**
 
 📫 dpc2147@columbia.edu
 
