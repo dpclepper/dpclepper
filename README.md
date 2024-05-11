@@ -24,6 +24,17 @@
 
 ## Portfolio
 
+### Machine Learning
+
+#### Predicting Startup Success with Machine Learning - [link](https://github.com/dpclepper/Venture-Success)
+I applied CART, random forest, logistic regression, and other techniques including dimensionality reduction and regularization to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
+
+### Analytics Engineering
+
+#### Easyplant Analytics Engineering Pipeline - [link](https://github.com/columbiateam14/dbt_plant_sales)
+I devised and deployed an end-to-end data stack for a self-watering plant startup consisting of ingesting data from multiple sources including Snowflake and Google Drive in Fivetran, transforming data from raw form to analytics-ready production data in dbt, and warehousing in Snowflake. Following this, I created dashboards in Preset (formerly Apache Superset) detailing customer lifecycle across website, revenue breakdowns, forecasts, and hiring analytics.
+
+
 ### Data/Statistical Analysis
 
 #### Global Life Expectancy Exploration - [link](https://github.com/dpclepper/Life-Expectancy)
@@ -31,11 +42,6 @@ I investigated the life expectancy dataset from the World Health Organization (W
 
 #### Renewable Energy vs. Fossil Fuel Consumption Data Analysis - [link](https://github.com/dpclepper/Energy)
 I investigated multiple datasets from The World Bank on renewable energy consumption, fossil fuel energy consumption, and renewable electricity output across numerous countries, focusing on the differences between these factors and how certain features including region and year influence these values and their corresponding differences. I cleaned the data using multiple techniques, conducted an exploratory data analysis and analysis of variance, and created a multiple linear regression model.
-
-### Machine Learning
-
-#### Predicting Startup Success with Machine Learning - [link](https://github.com/dpclepper/Venture-Success)
-I applied CART, random forest, logistic regression, and other techniques including dimensionality reduction and regularization to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
 
 ### Simulation Modeling and Analysis
 
