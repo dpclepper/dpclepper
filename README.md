@@ -12,8 +12,6 @@ Check out my projects below!
 
 ⛓ https://www.linkedin.com/in/dpclepper/
 
-<br>
-
 ## Work Experience 👨‍💻
 
 - Figma <img src="https://github.com/dpclepper/Venture-Success/blob/main/Images/figma.png" width="14" height="14"> - May 2024 to August 2024
@@ -22,7 +20,6 @@ Check out my projects below!
 - Branch ᛘ - September 2022 to January 2023
 - Kraft Heinz 🌭 - June 2022 to August 2022
 - Extreme Engineering Solutions 🛠 - May 2021 to December 2021
-<br>
 
 ## Portfolio
 
