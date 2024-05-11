@@ -29,6 +29,9 @@
 #### Predicting Startup Success with Machine Learning - [link](https://github.com/dpclepper/Venture-Success)
 I applied CART, random forest, logistic regression, and other techniques including dimensionality reduction and regularization to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
 
+#### Analyzing and Predicting Microbusiness Density for Informed Economic Policy - [link](https://github.com/dpclepper/Microbusiness)
+I leveraged advanced statistical and machine learning techniques, including Neural Networks, Lasso Regression, Ridge Regression, and XGBoost, to analyze microbusiness density across U.S. counties using data from GoDaddy and the U.S. Census. This comprehensive analysis involved hyperparameter tuning, correlation assessments, and feature importance evaluation to refine prediction models and capture the nuances influencing microbusiness activities. The final report delineates the influence of geographic, educational, and internet access factors on microbusiness density, providing actionable insights for policymakers to enhance economic resilience and growth.
+
 ### Analytics Engineering
 
 #### Easyplant Analytics Engineering Pipeline - [link](https://github.com/columbiateam14/dbt_plant_sales)
