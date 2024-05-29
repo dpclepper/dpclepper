@@ -1,6 +1,6 @@
 # Hi, I'm Danny! 👋
 
-🏫 Hey! I'm Danny Clepper, a data science enthusiast with a strong background in product analytics and machine learning. Currently, I'm studying Data Science at Columbia University, having recently graduated with a BS in Industrial Engineering from the University of Wisconsin-Madison (go Badgers!).
+🏫 Hey! I'm Danny Clepper, a product-focused data science enthusiast with a strong background in analytics, statistics, and machine learning. Currently, I'm studying Data Science at Columbia University, having recently graduated with a BS in Industrial Engineering from the University of Wisconsin-Madison (go Badgers!).
 
 📊 Throughout my education, I've had a wealth of internship experiences across multiple domains, most recently working on feature engineering for Visa's Predictive Modeling organization. My expertise lies in SQL, Python, Tableau, and machine learning modeling, enabling me to extract and deliver valuable insights from complex data.
 
