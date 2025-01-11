@@ -25,6 +25,9 @@ Check out my projects below!
 
 ### Machine Learning
 
+#### Optimizing Image Classification on CIFAR-10 with Transformer Architectures - [link](https://github.com/dpclepper/Transformers)
+For a Data Mining course at Columbia University, I evaluated Transformer architectures for image classification, using the CIFAR-10 dataset as a benchmark. I focused on balancing computational efficiency with classification accuracy, comparing Vision Transformer (ViT) and Performer variants, including ReLU, ELU, GELU, and a novel Performer-fθ with learnable kernel functions. The project involved implementing efficient kernel approximations to mitigate the quadratic complexity of traditional attention mechanisms. Through rigorous experiments and hyperparameter tuning pipelines using Grid Search and Optuna, I analyzed training time, inference time, and accuracy trade-offs. The final report provides insights into speed-accuracy tradeoffs for Transformer-based architectures and highlights future directions for scaling to larger datasets and refining learnable kernel functions for improved performance.
+
 #### Venture Capital Startup Success Prediction - [link](https://github.com/dpclepper/Venture-Success)
 I applied CART, random forest, logistic regression, and other techniques including dimensionality reduction and regularization to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
 
