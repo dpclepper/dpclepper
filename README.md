@@ -1,20 +1,20 @@
 # Hi, I'm Danny! 👋
 
-🏫 Hey! I'm Danny Clepper, a product-focused data science enthusiast with a strong background in analytics, statistics, and machine learning. Currently, I'm studying Data Science at Columbia University, having recently graduated with a BS in Industrial Engineering from the University of Wisconsin-Madison (go Badgers!).
+🏫 Hey! I'm Danny Clepper, a product-focused data science enthusiast with a strong background in analytics, statistics, and machine learning. Within the last few years, I've graduated with a Master's degree in Data Science at Columbia University and a BS in Industrial Engineering from the University of Wisconsin-Madison.
 
-📊 Throughout my education, I've had a wealth of internship experiences across multiple domains, most recently working on feature engineering for Visa's Predictive Modeling organization. My expertise lies in SQL, Python, Tableau, and machine learning modeling, enabling me to extract and deliver valuable insights from complex data.
+📊 Throughout my education, I've had a wealth of internship experiences across multiple domains, from product data science at Figma working on metrics and experimentation, to machine learning data science at Visa working on feature engineering for credit card fraud models. My expertise lies in SQL, Python, Tableau, and machine learning modeling, enabling me to extract and deliver valuable insights from complex data.
 
 Check out my projects below!
 
 **How to reach me:**
 
-📫 dpc2147@columbia.edu
+📫 dpclepper1208@gmail.com
 
 ⛓ https://www.linkedin.com/in/dpclepper/
 
 ## Work Experience 👨‍💻
 
-- Figma <img src="https://github.com/dpclepper/Venture-Success/blob/main/Images/figma.png" width="14" height="13"> - May 2024 to Present
+- Figma <img src="https://github.com/dpclepper/Venture-Success/blob/main/Images/figma.png" width="14" height="13"> - May 2024 to August 2024
 - Post Holdings <img src="https://github.com/dpclepper/Venture-Success/blob/main/Images/post.png" width="20" height="13"> - August 2023 to January 2024
 - Visa 💳 - May 2023 to August 2023
 - Branch ᛘ - September 2022 to January 2023
@@ -27,6 +27,9 @@ Check out my projects below!
 
 #### Optimizing Image Classification on CIFAR-10 with Transformer Architectures - [link](https://github.com/dpclepper/Transformers)
 For a Data Mining course at Columbia University, I evaluated Transformer architectures for image classification, using the CIFAR-10 dataset as a benchmark. I focused on balancing computational efficiency with classification accuracy, comparing Vision Transformer (ViT) and Performer variants, including ReLU, ELU, GELU, and a novel Performer-fθ with learnable kernel functions. The project involved implementing efficient kernel approximations to mitigate the quadratic complexity of traditional attention mechanisms. Through rigorous experiments and hyperparameter tuning pipelines using Grid Search and Optuna, I analyzed training time, inference time, and accuracy trade-offs. The final report provides insights into speed-accuracy tradeoffs for Transformer-based architectures and highlights future directions for scaling to larger datasets and refining learnable kernel functions for improved performance.
+
+#### Model Metadata Chatbot for KPMG - [link](https://github.com/engie4800/dsi-capstone-fall-2024-kpmg)
+The chatbot project I worked on for KPMG for my Data Science Capstone at Columbia University leverages retrieval-augmented generation (RAG) and GenAI to improve transparency and accessibility of model metadata for enhanced risk management. By integrating GraphRAG, refining intent-matching with embeddings, and optimizing workflows, the chatbot now delivers more accurate and contextually relevant responses to user queries. These enhancements resulted in a significant improvement in response accuracy and context retrieval, with an overall performance increase of over 50% compared to the previous version. This project has streamlined access to critical model-related information, empowering business users with reliable and efficient tools for decision-making.
 
 #### Venture Capital Startup Success Prediction - [link](https://github.com/dpclepper/Venture-Success)
 I applied CART, random forest, logistic regression, and other techniques including dimensionality reduction and regularization to a dataset containing funding and market data for 40,000+ startups to predict startup "success." I analyzed differences in ROC-AUC scores and Type I/II error tradeoffs to select the best performing model. Finally, I wrote a report focusing on the project outcomes from a venture capital (VC) fund perspective to contextualize the results.
